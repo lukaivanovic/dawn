@@ -213,6 +213,10 @@
   }
 }
 
+.banner--custom {
+  height: calc(100vh - 100px);
+}
+
 .banner--adapt,
 .banner--adapt_image.banner--mobile-bottom .banner__media:not(.placeholder) {
   height: auto;
